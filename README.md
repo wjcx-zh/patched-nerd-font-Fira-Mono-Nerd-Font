@@ -1,0 +1,1 @@
+# patched-nerd-font-Fira-Mono-Nerd-Font
